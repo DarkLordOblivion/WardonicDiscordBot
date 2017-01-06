@@ -1,0 +1,33 @@
+Admin Commands
+--------------
+--Basic commands Below
+!clear = clears last 100 messages
+!kick @MemberHere = kicks member from group chat
+!ban @MemberHere = bans member from group chat
+!unban @MemberHere = unbans member from group chat
+
+--Addrole Commands Below
+!addroleBP @MemberHere = adds member to Beta Players
+!addroleSM @MemberHere = adds member to Staff Members
+!addroleGM @MemberHere = adds membber to Game Masters
+!addroleDA @MemberHere = adds membber to Donation Administrators
+!addroleDT @MemberHere = adds membber to Developer Team
+!addroleSUGM @MemberHere = adds membber to Super Game Master
+!addroleLD @MemberHere = adds membber to Lead Developer
+!addroleSEGM @MemberHere = adds membber to Senior Game Master
+!addroleA @MemberHere = adds membber to Administrator
+!addroleDS @MemberHere = adds membber to Discord-Staff
+!addroleDOT @MemberHere = adds membber to Donation Team
+
+--Removerole Commands Below
+!removeroleBP @MemberHere = removes member from Beta Players
+!removeroleSM @MemberHere = removes member from Staff Members
+!removeroleGM @MemberHere = removes membber from Game Masters
+!removeroleDA @MemberHere = removes membber from Donation Administrators
+!removeroleDT @MemberHere = removes membber from Developer Team
+!removeroleSUGM @MemberHere = removes membber from Super Game Master
+!removeroleLD @MemberHere = removes membber from Lead Developer
+!removeroleSEGM @MemberHere = removes membber from Senior Game Master
+!removeroleA @MemberHere = removes membber from Administrator
+!removeroleDS @MemberHere = removes membber from Discord-Staff
+!removeroleDOT @MemberHere = removes membber from Donation Team
